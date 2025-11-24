@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Initial commit: Flask FileStore"
+# create a GitHub repo via the website or gh cli, then push. Example with gh CLI:
+# gh repo create your-username/flask-filestore --public --source=. --remote=origin --push
